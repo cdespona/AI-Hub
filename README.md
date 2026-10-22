@@ -90,6 +90,32 @@ These skills help you write, refactor, and fix code.
   npx skills@latest add mattpocock/skills/git-guardrails-claude-code
   ```
 
+- **initialize-agent-guidance** — Create or refresh evidence-based `AGENTS.md` and `.github/copilot-instructions.md` files for a repository.
+
+## Workflow & Collaboration
+
+- **conductor** — Validate, run, and debug multi-agent YAML workflows with the Conductor CLI.
+
+- **feedback-360** — Run role-aware 360-feedback interviews and prepare structured Markdown feedback.
+
+- **tenth-man** — Evaluate a technical decision through several forced perspectives and a contrarian review before synthesizing the trade-offs.
+
+## Efficiency & Simplification
+
+- **caveman** — A terse, technically accurate communication mode with configurable compression levels.
+
+- **ponytail** — A minimal-solution development mode that prioritizes YAGNI, standard libraries, and native platform features.
+
+- **ponytail-review** — Review a diff exclusively for unnecessary complexity and simplification opportunities.
+
+- **ponytail-audit** — Perform a whole-repository audit for bloat, dead flexibility, and avoidable dependencies.
+
+- **ponytail-debt** — Collect `ponytail:` shortcut markers into a debt ledger.
+
+- **ponytail-gain** — Display Ponytail benchmark impact as a compact scoreboard.
+
+- **ponytail-help** — Display a quick-reference guide to Ponytail modes and commands.
+
 ## Writing & Knowledge
 
 - **write-a-skill** — Create new skills with proper structure, progressive disclosure, and bundled resources.
