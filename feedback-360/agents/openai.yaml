@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feedback 360"
+  short_description: "Interview and draft structured feedback"
+  default_prompt: "Use $feedback-360 to interview me and draft this feedback cycle."
+
+policy:
+  allow_implicit_invocation: false

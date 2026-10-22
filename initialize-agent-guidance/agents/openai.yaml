@@ -1,0 +1,4 @@
+interface:
+  display_name: "Initialize Agent Guidance"
+  short_description: "Create repository agent guidance"
+  default_prompt: "Use $initialize-agent-guidance to create or update AGENTS.md and Copilot instructions for this repository."

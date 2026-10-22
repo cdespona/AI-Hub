@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tenth Man"
+  short_description: "Compare architecture options with a contrarian council"
+  default_prompt: "Use $tenth-man to compare solution paths for this technical decision."
