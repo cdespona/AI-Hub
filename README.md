@@ -46,6 +46,8 @@ These skills help you think through problems before writing code.
 
 These skills help you write, refactor, and fix code.
 
+- **legacy-test-safety-net** — Add or refactor characterization tests for existing applications, with clear test layers, shared fixtures, and coverage verification.
+
 - **tdd** — Test-driven development with a red-green-refactor loop. Builds features or fixes bugs one vertical slice at a time.
 
   ```
